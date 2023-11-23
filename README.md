@@ -1,5 +1,6 @@
-#Portfolio(Create a Starbucks site)
-<span>SONG EUNBI PR presentation.</span>
+#Portfolio
+</br>
+<span>This is SONG EUNBI PR presentation.(Creating a website.)</span>
 </br>
 <span>Please click on DEMO.</span>
 </br>
